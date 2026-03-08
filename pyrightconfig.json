@@ -1,0 +1,15 @@
+{
+    "pythonVersion": "3.11",
+    "typeCheckingMode": "strict",
+    "venvPath": ".",
+    "venv": ".venv",
+    "reportMissingTypeStubs": false,
+    "reportUnknownMemberType": true,
+    "reportUnknownVariableType": true,
+    "reportUnknownArgumentType": true,
+    "reportUnknownLambdaType": true,
+    "reportUnknownParameterType": true,
+    "reportImplicitOverride": true,
+    "include": ["main.py", "weather_assistant_cli", "scripts"],
+    "exclude": ["tests"],
+}
